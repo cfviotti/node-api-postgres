@@ -1,0 +1,12 @@
+{
+  "name": "node-api-postgres",
+  "version": "1.0.0",
+  "description": "RESTful API with Node.js, Express, and PostgreSQL",
+  "main": "index.js",
+  "author": "Caio Viotti",
+  "license": "WTFPL",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^7.15.1"
+  }
+}
